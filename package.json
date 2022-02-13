@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Microwave-6443/microbot#readme",
   "dependencies": {
+    "axios": "^0.26.0",
     "discord.js": "^13.6.0"
   }
 }
