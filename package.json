@@ -1,0 +1,22 @@
+{
+  "name": "microbot",
+  "version": "1.0.0",
+  "description": "MicroBot advanced technology.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microwave-6443/microbot.git"
+  },
+  "author": "Microwave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Microwave-6443/microbot/issues"
+  },
+  "homepage": "https://github.com/Microwave-6443/microbot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
