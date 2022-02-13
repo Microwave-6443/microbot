@@ -17,6 +17,10 @@ client.on("ready", () => {
                 message: "Get trolled."
             }
         }
+    }).then(response => {
+        console.log(response.data);
+    }).catch(error => {
+        console.log(error.message);
     });
 });
 
